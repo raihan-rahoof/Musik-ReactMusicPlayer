@@ -1,9 +1,15 @@
+//styles
+import './styles/app.scss';
+//components
+import Player from "./components/Player";
+import Songs from "./components/Songs";
 
 
 function App() {
   return (
     <div className="App">
-      <h1>hello</h1>
+      <Songs/>
+      <Player/>
     </div>
   );
 }
