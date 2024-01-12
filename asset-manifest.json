@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/raihan-rahoof/Musik-ReactMusicPlayer/static/css/main.7dd744d0.css",
+    "main.js": "/raihan-rahoof/Musik-ReactMusicPlayer/static/js/main.a57f39d4.js",
+    "static/js/787.6ab3f855.chunk.js": "/raihan-rahoof/Musik-ReactMusicPlayer/static/js/787.6ab3f855.chunk.js",
+    "static/media/cigaretes.mp3": "/raihan-rahoof/Musik-ReactMusicPlayer/static/media/cigaretes.1d71047f2d13fb9240bc.mp3",
+    "static/media/inception.mp3": "/raihan-rahoof/Musik-ReactMusicPlayer/static/media/inception.821979ffe1166a3c86a1.mp3",
+    "static/media/interstellar.mp3": "/raihan-rahoof/Musik-ReactMusicPlayer/static/media/interstellar.91c4b4f14256375bc8ab.mp3",
+    "index.html": "/raihan-rahoof/Musik-ReactMusicPlayer/index.html",
+    "main.7dd744d0.css.map": "/raihan-rahoof/Musik-ReactMusicPlayer/static/css/main.7dd744d0.css.map",
+    "main.a57f39d4.js.map": "/raihan-rahoof/Musik-ReactMusicPlayer/static/js/main.a57f39d4.js.map",
+    "787.6ab3f855.chunk.js.map": "/raihan-rahoof/Musik-ReactMusicPlayer/static/js/787.6ab3f855.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7dd744d0.css",
+    "static/js/main.a57f39d4.js"
+  ]
+}
