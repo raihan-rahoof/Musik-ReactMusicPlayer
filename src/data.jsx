@@ -2,6 +2,7 @@ import { v4 as uuidv4 } from "uuid";
 import inception from './audios/inception.mp3'
 import interstellar from './audios/interstellar.mp3'
 import cigaretes from './audios/cigaretes.mp3'
+import memory from './audios/memory.mp3'
 
 
 function chillHop() {
@@ -37,11 +38,11 @@ function chillHop() {
 			active: false,
 		},
 		{
-			name: "Nightfall",
+			name: "Memory Reboot ",
 			cover:
 				"https://chillhop.com/wp-content/uploads/2020/07/ef95e219a44869318b7806e9f0f794a1f9c451e4-1024x1024.jpg",
-			artist: "Aiguille",
-			audio: "https://mp3.chillhop.com/serve.php/?mp3=9148",
+			artist: "VOJ & Narvent",
+			audio: memory,
 			color: ["#EF8EA9", "#ab417f"],
 			id: uuidv4(),
 			active: false,
